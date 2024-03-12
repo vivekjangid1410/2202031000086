@@ -1,0 +1,559 @@
+.popular-rental-deals-child {
+  position: absolute;
+  top: 161px;
+  left: 610px;
+  border-radius: var(--br-307xl);
+  width: 700px;
+  height: 2px;
+  object-fit: contain;
+}
+.cars1 {
+  position: absolute;
+  top: 163px;
+  left: 914px;
+  font-size: var(--font-size-13xl);
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+}
+.car-for-rent2 {
+  color: var(--color-blue-200);
+}
+.our-best-car-container {
+  position: absolute;
+  top: 180px;
+  left: 656px;
+  font-size: var(--font-size-31xl);
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.popular-rental-deals-inner,
+.popular-rental-deals-item {
+  position: absolute;
+  top: 33px;
+  left: 1737px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-blue-100);
+  width: 148px;
+  height: 49px;
+}
+.popular-rental-deals-inner {
+  top: 31px;
+  left: 1566px;
+  background-color: var(--color-gray-700);
+  border: 3px solid var(--color-blue-200);
+  box-sizing: border-box;
+  height: 51px;
+}
+.about-us3,
+.cars-for-buy3,
+.faqs3,
+.our-services3,
+.sign-in3 {
+  position: absolute;
+  top: 45px;
+  left: 1603px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 73px;
+  height: 24px;
+}
+.about-us3,
+.cars-for-buy3,
+.faqs3,
+.our-services3 {
+  top: 37px;
+  left: 1417px;
+  width: 53px;
+}
+.about-us3,
+.cars-for-buy3,
+.our-services3 {
+  left: 1287px;
+  width: 88px;
+}
+.cars-for-buy3,
+.our-services3 {
+  left: 1133px;
+  width: 146px;
+}
+.cars-for-buy3 {
+  left: 958px;
+  width: 121px;
+}
+.hub3 {
+  color: var(--color-deepskyblue);
+}
+.cars-for-rent4,
+.dp-carhub5,
+.home3,
+.sign-up3 {
+  position: absolute;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.dp-carhub5 {
+  top: 18px;
+  left: 34px;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-inter);
+  width: 306px;
+  height: 70px;
+}
+.cars-for-rent4,
+.home3,
+.sign-up3 {
+  top: 37px;
+  font-weight: 600;
+  height: 24px;
+}
+.home3 {
+  left: 696px;
+  color: var(--color-dimgray-200);
+  width: 48px;
+}
+.cars-for-rent4,
+.sign-up3 {
+  left: 785px;
+  width: 131px;
+}
+.sign-up3 {
+  top: 45px;
+  left: 1784px;
+  color: var(--color-gray-100);
+  width: 83px;
+  height: 13px;
+}
+.popular-rental-deals-child1 {
+  position: absolute;
+  top: 122px;
+  left: 785px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-blue-100);
+  width: 124px;
+  height: 7px;
+  opacity: 0.9;
+}
+.show-all-vehicles {
+  position: relative;
+  line-height: 130%;
+  font-weight: 500;
+}
+.vuesaxlineararrow-right-icon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.show-all-vehicles-parent {
+  position: absolute;
+  top: 676px;
+  left: 875px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 216px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  gap: 0 8px;
+  font-size: var(--font-size-sm);
+  color: #4e4e4e;
+}
+.our-product2 {
+  position: absolute;
+  top: 769px;
+  left: 831px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.career2 {
+  position: relative;
+  line-height: 150%;
+}
+.career-container {
+  position: absolute;
+  top: 812px;
+  left: 831px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.resources2 {
+  position: absolute;
+  top: 769px;
+  left: 1103px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.download-container {
+  position: absolute;
+  top: 812px;
+  left: 1103px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.about-rentcars2 {
+  position: absolute;
+  top: 769px;
+  left: 1375px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.why-choose-us-container {
+  position: absolute;
+  top: 812px;
+  left: 1375.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.follow-us2 {
+  position: absolute;
+  top: 769px;
+  left: 1647px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.vuesaxlinearfacebook-icon2 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.vuesaxlinearfacebook-container {
+  position: absolute;
+  top: 812px;
+  left: 1647px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+.dp-carhub6 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.dp-carhub-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.popular-rental-deals-inner1 {
+  position: absolute;
+  top: 764px;
+  left: 299px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.city-center2 {
+  margin: 0;
+}
+.city-center-sindhu-container2 {
+  width: 159px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-parent3,
+.vuesaxlinearlocation-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 805px;
+  left: 287px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px 0;
+  font-size: var(--font-size-sm);
+}
+.copyright-20232 {
+  position: absolute;
+  top: 1048px;
+  left: calc(50% - 613px);
+  font-size: var(--font-size-xs);
+  line-height: 150%;
+}
+.popular-rental-deals-child2 {
+  position: absolute;
+  top: 1015.5px;
+  left: calc(50% - 433.5px);
+  border-top: 1px solid var(--color-dimgray-400);
+  box-sizing: border-box;
+  width: 1121px;
+  height: 1px;
+}
+.popular-rental-deals {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.frame-child {
+  width: 256px;
+  position: relative;
+  border-radius: var(--br-base) var(--br-base) 0 0;
+  background-color: var(--color-white);
+  height: 155px;
+}
+.jaguar-xe-l {
+  position: relative;
+  line-height: 17px;
+  font-weight: 500;
+}
+.frame-item {
+  width: 16px;
+  position: relative;
+  border-radius: var(--br-12xs-5);
+  height: 16px;
+}
+.span {
+  font-weight: 500;
+}
+.reviews1 {
+  color: var(--color-gray-200);
+}
+.reviews {
+  position: relative;
+  line-height: 17px;
+}
+.star-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 6px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.jaguar-xe-l-p250-parent,
+.vuesaxlinearuser-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px 0;
+}
+.vuesaxlinearuser-parent {
+  flex-direction: row;
+  align-items: center;
+  gap: 0 4px;
+}
+.frame-icon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent7,
+.frame-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 5px;
+}
+.frame-parent7 {
+  align-self: stretch;
+  gap: 0 41px;
+}
+.frame-parent5,
+.frame-parent6,
+.frame-parent9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 19px;
+}
+.frame-parent5,
+.frame-parent6 {
+  flex-direction: column;
+}
+.frame-parent6 {
+  width: 208px;
+  gap: 8px 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-300);
+}
+.frame-parent5 {
+  gap: 16px 0;
+}
+.frame-inner {
+  width: 209px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 1px;
+}
+.b {
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+}
+.span1 {
+  font-weight: 600;
+}
+.span3 {
+  color: var(--color-black);
+}
+.span2 {
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-200);
+}
+.day {
+  position: relative;
+  line-height: 17px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-400);
+}
+.price-parent,
+.rent-now-parent {
+  width: 208px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.rent-now-parent {
+  border-radius: var(--br-5xs);
+  background-color: var(--primary);
+  height: 40px;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+  gap: 0 8px;
+  color: var(--color-white);
+}
+.line-parent {
+  gap: 24px 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-300);
+}
+.frame-parent4,
+.line-parent,
+.rectangle-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  padding: 0 var(--padding-5xl) var(--padding-5xl);
+  gap: 24px 0;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  width: 298.2px;
+  height: 450px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 24.4px;
+  left: 28px;
+  width: 242.3px;
+  height: 115.6px;
+  object-fit: cover;
+}
+.group-div {
+  position: absolute;
+  top: 250px;
+  left: 302px;
+  box-shadow: var(--drop-shadow-card);
+  width: 298.2px;
+  height: 450px;
+}
+.audi-1-icon {
+  position: absolute;
+  top: 40px;
+  left: 28px;
+  width: 243.5px;
+  height: 101.1px;
+  object-fit: cover;
+}
+.frame-parent12 {
+  position: absolute;
+  top: 250px;
+  left: 632.3px;
+  box-shadow: var(--drop-shadow-card);
+  width: 298.2px;
+  height: 450px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 34.4px;
+  left: 28px;
+  width: 242.3px;
+  height: 107.8px;
+  object-fit: cover;
+}
+.frame-parent21 {
+  position: absolute;
+  top: 250px;
+  left: 962.5px;
+  box-shadow: var(--drop-shadow-card);
+  width: 298.2px;
+  height: 450px;
+}
+.image-11-icon {
+  position: absolute;
+  top: 42.2px;
+  left: 28px;
+  width: 242.3px;
+  height: 94.4px;
+  object-fit: contain;
+}
+.frame-parent30 {
+  position: absolute;
+  top: 250px;
+  left: 1292.8px;
+  box-shadow: var(--drop-shadow-card);
+  width: 298.2px;
+  height: 450px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}

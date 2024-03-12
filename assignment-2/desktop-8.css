@@ -1,0 +1,196 @@
+.about-us5,
+.home5 {
+  position: absolute;
+  top: 68px;
+  left: 900px;
+  font-size: var(--font-size-5xl);
+}
+.about-us5 {
+  left: 1050px;
+}
+.hub5 {
+  color: var(--color-blueviolet);
+}
+.dp-carhub9 {
+  position: absolute;
+  top: 86px;
+  left: 86px;
+  font-size: 30px;
+}
+.welcome-back-please {
+  position: absolute;
+  top: 366px;
+  left: 86px;
+  color: rgba(0, 0, 0, 0.6);
+  white-space: pre-wrap;
+}
+.for-car {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+  white-space: pre-wrap;
+}
+.your-detail {
+  margin: 0;
+}
+.for-car-rent-container {
+  position: absolute;
+  top: 230px;
+  left: 86px;
+  font-size: 36px;
+  font-family: var(--font-open-sans);
+  color: var(--color-blueviolet);
+}
+.blog,
+.pricing {
+  position: absolute;
+  top: 68px;
+  left: 1200px;
+  font-size: var(--font-size-5xl);
+}
+.pricing {
+  left: 1300px;
+}
+.desktop-8-child,
+.desktop-8-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-8-child {
+  top: 102.5px;
+  left: 1091.5px;
+  background-color: var(--color-mediumblue);
+  border-top: 3px solid var(--color-mediumblue);
+  width: 72px;
+  height: 3px;
+}
+.desktop-8-item {
+  top: 526px;
+  left: 111px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  width: 554px;
+  height: 74px;
+}
+.password {
+  position: absolute;
+  top: 554px;
+  left: 137px;
+  color: var(--color-darkgray-300);
+}
+.desktop-8-inner {
+  position: absolute;
+  top: 452px;
+  left: 111px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 554px;
+  height: 74px;
+}
+.desktop-8-child1,
+.email {
+  position: absolute;
+  left: 140px;
+}
+.email {
+  top: 468px;
+  color: var(--color-darkgray-300);
+}
+.desktop-8-child1 {
+  top: 625px;
+  background-color: var(--color-white);
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  width: 13px;
+  height: 13px;
+}
+.desktop-8-child2,
+.desktop-8-child3 {
+  position: absolute;
+  top: 714px;
+  width: 129px;
+  height: 54px;
+}
+.desktop-8-child2 {
+  left: 107px;
+  background-color: var(--color-blueviolet);
+  box-shadow: 0 4px 3px rgba(0, 0, 0, 0.25);
+}
+.desktop-8-child3 {
+  left: 269px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-blueviolet);
+  box-sizing: border-box;
+}
+.audi-1-icon2,
+.desktop-8-child4 {
+  position: absolute;
+  top: 0;
+  left: 718px;
+  width: 1209px;
+  height: 1080px;
+}
+.audi-1-icon2 {
+  top: 431px;
+  left: 800px;
+  width: 776px;
+  height: 337px;
+  object-fit: cover;
+}
+.or-login-with,
+.remember-me {
+  position: absolute;
+  top: 620px;
+  left: 163px;
+  color: var(--color-gray-600);
+}
+.or-login-with {
+  top: 837px;
+  left: 86px;
+}
+.facebook,
+.google,
+.linkedin,
+.login {
+  position: absolute;
+  top: 837px;
+  left: 262px;
+  color: var(--color-blueviolet);
+}
+.google,
+.linkedin,
+.login {
+  left: 416px;
+}
+.google,
+.login {
+  left: 559px;
+}
+.login {
+  top: 728px;
+  left: 142px;
+  color: var(--color-white);
+}
+.forgot-password,
+.sign-up5 {
+  position: absolute;
+  top: 729px;
+  left: 303px;
+  color: var(--color-mediumblue);
+}
+.forgot-password {
+  top: 609px;
+  left: 499px;
+  color: var(--color-gray-600);
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

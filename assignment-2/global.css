@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-bebas-neue: "Bebas Neue";
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-58xl: 77px;
+  --font-size-base: 16px;
+  --font-size-31xl: 50px;
+  --font-size-xs: 12px;
+  --font-size-2xl: 21px;
+  --font-size-20xl: 39px;
+  --font-size-lg: 18px;
+  --font-size-21xl: 40px;
+  --font-size-18xl: 37px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray-100: #3e3d3d;
+  --color-black: #000;
+  --color-blue-100: #1400ff;
+  --color-blue-200: #1300ea;
+  --color-darkgray-100: #b9b3b3;
+  --color-darkgray-200: #9c9c9c;
+  --color-darkgray-300: #959595;
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #808080;
+  --color-gray-300: #7b7777;
+  --color-gray-400: #292929;
+  --color-gray-500: #262626;
+  --color-gray-600: rgba(0, 0, 0, 0.61);
+  --color-gray-700: rgba(255, 255, 255, 0.2);
+  --color-gainsboro-100: #e0e0e0;
+  --color-gainsboro-200: #d9d9d9;
+  --color-gainsboro-300: rgba(217, 217, 217, 0.87);
+  --color-gainsboro-400: rgba(217, 217, 217, 0);
+  --color-deepskyblue: #1faeff;
+  --color-dimgray-100: #6d6d6d;
+  --color-dimgray-200: #635b5b;
+  --color-dimgray-300: #595959;
+  --color-dimgray-400: #575757;
+  --color-lightgray: #d5d5d5;
+  --primary: #1572d3;
+  --color-dodgerblue-100: rgba(21, 114, 211, 0.1);
+  --color-aliceblue: #ecf5ff;
+  --color-mediumblue: #0c30f1;
+  --color-blueviolet: #3751fe;
+  --color-silver: #c2bbbb;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-0: 0px;
+  --gap-base: 16px;
+  --gap-13xl: 32px;
+  --gap-21xl: 40px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-13xl: 32px;
+  --padding-5xl: 24px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-sm: 14px;
+  --br-4xl: 23px;
+  --br-307xl: 326px;
+  --br-9xl: 28px;
+  --br-39xl: 58px;
+  --br-4xs: 9px;
+  --br-2xs-1: 10.1px;
+  --br-5xs: 8px;
+  --br-base: 16px;
+  --br-12xs-5: 0.5px;
+  --br-15xl: 34px;
+
+  /* Effects */
+  --drop-shadow-card: 0px 12px 24px rgba(16, 76, 139, 0.16);
+}

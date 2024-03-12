@@ -1,0 +1,322 @@
+.desktop-1-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.desktop-1-child11 {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1920px;
+  height: 140px;
+}
+.hub6 {
+  color: var(--color-deepskyblue);
+}
+.dp-carhub10 {
+  position: absolute;
+  top: 38px;
+  left: 48px;
+  font-size: var(--font-size-31xl);
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 306px;
+  height: 70px;
+}
+.about-us6,
+.cars-for-buy5,
+.cars-for-rent6,
+.faqs5,
+.home6,
+.our-services5,
+.sign-in5 {
+  position: absolute;
+  top: 57px;
+  left: 710px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 48px;
+  height: 24px;
+}
+.about-us6,
+.cars-for-buy5,
+.cars-for-rent6,
+.faqs5,
+.our-services5,
+.sign-in5 {
+  left: 799px;
+  color: var(--color-dimgray-200);
+  width: 131px;
+}
+.about-us6,
+.cars-for-buy5,
+.faqs5,
+.our-services5,
+.sign-in5 {
+  left: 972px;
+  width: 121px;
+}
+.about-us6,
+.faqs5,
+.our-services5,
+.sign-in5 {
+  left: 1147px;
+  width: 146px;
+}
+.about-us6,
+.faqs5,
+.sign-in5 {
+  left: 1301px;
+  width: 88px;
+}
+.faqs5,
+.sign-in5 {
+  left: 1431px;
+  width: 53px;
+}
+.sign-in5 {
+  top: 65px;
+  left: 1617px;
+  width: 73px;
+}
+.desktop-1-child12,
+.desktop-1-child13 {
+  position: absolute;
+  border-radius: var(--br-4xs);
+  width: 148px;
+}
+.desktop-1-child12 {
+  top: 51px;
+  left: 1580px;
+  background-color: var(--color-gray-700);
+  border: 3px solid var(--color-blue-200);
+  box-sizing: border-box;
+  height: 51px;
+}
+.desktop-1-child13 {
+  top: 53px;
+  left: 1751px;
+  background-color: var(--color-blue-100);
+  height: 49px;
+}
+.sign-up6 {
+  position: absolute;
+  top: 65px;
+  left: 1798px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 83px;
+  height: 13px;
+}
+.desktop-1-child14 {
+  position: absolute;
+  top: 132px;
+  left: 711px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-blue-100);
+  width: 46px;
+  height: 7px;
+  opacity: 0.9;
+}
+.desktop-1-child15,
+.desktop-1-child16,
+.desktop-1-child17 {
+  position: absolute;
+  top: 236px;
+  left: 997px;
+  border-radius: var(--br-9xl);
+  width: 591px;
+  height: 743px;
+  object-fit: cover;
+}
+.desktop-1-child16,
+.desktop-1-child17 {
+  left: 1626px;
+  width: 181px;
+}
+.desktop-1-child17 {
+  left: 1845px;
+}
+.we-provide-luxury1 {
+  margin: 0;
+}
+.for-rent1 {
+  color: var(--color-black);
+}
+.cars-for-rent7 {
+  margin: 0;
+  color: var(--color-deepskyblue);
+}
+.car-for-two1,
+.family-cars1,
+.we-provide-luxury-container1 {
+  position: absolute;
+  line-height: 79px;
+  text-transform: uppercase;
+  font-family: var(--font-bebas-neue);
+}
+.we-provide-luxury-container1 {
+  top: 350px;
+  left: 162px;
+  font-size: var(--font-size-58xl);
+  display: inline-block;
+  width: 483px;
+  height: 158px;
+}
+.car-for-two1,
+.family-cars1 {
+  top: 647.2px;
+  left: 1678.1px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  transform: rotate(-90.84deg);
+  transform-origin: 0 0;
+}
+.car-for-two1 {
+  top: 690.1px;
+  left: 1857.1px;
+}
+.desktop-1-child18 {
+  position: absolute;
+  top: 272px;
+  left: 162px;
+  border-radius: var(--br-307xl);
+  max-height: 100%;
+  width: 112px;
+}
+.desktop-1-child19 {
+  position: absolute;
+  top: 624px;
+  left: 353px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-gainsboro-200);
+  width: 244px;
+  height: 106px;
+}
+.desktop-1-child20,
+.desktop-1-child21 {
+  position: absolute;
+  left: 160px;
+  border-radius: var(--br-4xl);
+}
+.desktop-1-child20 {
+  top: 624px;
+  background-color: var(--color-blue-100);
+  box-shadow: 0 4px 4.9px -1px #000;
+  width: 221px;
+  height: 106px;
+}
+.desktop-1-child21 {
+  top: 694px;
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 0 4px 4px 5px rgba(0, 0, 0, 0.25);
+  width: 1229px;
+  height: 193px;
+}
+.car-for-buy1,
+.car-for-rent3 {
+  position: absolute;
+  top: 659px;
+  font-size: var(--font-size-5xl);
+  text-transform: uppercase;
+}
+.car-for-rent3 {
+  left: 188px;
+  color: var(--color-gray-100);
+}
+.car-for-buy1 {
+  left: 403px;
+}
+.desktop-1-child22,
+.desktop-1-child23,
+.desktop-1-child24 {
+  position: absolute;
+  top: 743px;
+  left: 218px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkgray-100);
+  width: 272px;
+  height: 96px;
+}
+.desktop-1-child23,
+.desktop-1-child24 {
+  left: 527px;
+}
+.desktop-1-child24 {
+  left: 1136px;
+  background-color: var(--color-blue-100);
+  width: 209px;
+  cursor: pointer;
+}
+.search1 {
+  position: absolute;
+  top: 791px;
+  left: 1202px;
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.pickup-date2 {
+  top: 775px;
+  left: 242px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+.div6,
+.div7,
+.drop-of-date1,
+.pickup-date2 {
+  position: absolute;
+  text-transform: uppercase;
+}
+.drop-of-date1 {
+  top: 770px;
+  left: 556px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+}
+.div6,
+.div7 {
+  top: 806px;
+  left: 242px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+}
+.div7 {
+  left: 556px;
+}
+.desktop-12 {
+  background-color: var(--color-white);
+  overflow-x: auto;
+}
+.desktop-1-wrapper,
+.desktop-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+}
+.desktop-11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

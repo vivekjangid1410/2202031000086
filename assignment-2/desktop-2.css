@@ -1,0 +1,530 @@
+.desktop-2-child,
+.desktop-2-inner {
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+.desktop-2-child {
+  top: 4px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 140px;
+}
+.desktop-2-inner {
+  top: 0;
+  background-color: var(--color-gainsboro-300);
+  height: 1080px;
+}
+.desktop-2-child2,
+.desktop-2-child3 {
+  position: absolute;
+  top: 223px;
+  left: 610px;
+  border-radius: var(--br-307xl);
+  width: 700px;
+  height: 2px;
+  object-fit: contain;
+}
+.desktop-2-child3 {
+  top: 493px;
+  left: 628px;
+}
+.brands,
+.style {
+  position: absolute;
+  top: 225px;
+  left: 895px;
+  font-size: var(--font-size-13xl);
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+}
+.style {
+  top: 495px;
+  left: 913px;
+}
+.brands1 {
+  color: var(--color-blue-200);
+}
+.discover-by-brands-container,
+.discover-by-style-container {
+  position: absolute;
+  top: 285px;
+  left: 688px;
+  font-size: var(--font-size-31xl);
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.discover-by-style-container {
+  top: 555px;
+  left: 706px;
+}
+.desktop-2-child4,
+.desktop-2-child5 {
+  position: absolute;
+  top: 399px;
+  border-radius: var(--br-sm);
+  width: 250px;
+  height: 80px;
+}
+.desktop-2-child4 {
+  left: 406px;
+  background-color: var(--color-gainsboro-400);
+  border: 5px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.desktop-2-child5 {
+  left: 120px;
+  object-fit: cover;
+}
+.desktop-2-child6,
+.desktop-2-child7,
+.desktop-2-child8,
+.desktop-2-child9 {
+  position: absolute;
+  top: 629px;
+  left: 138px;
+  border-radius: var(--br-sm);
+  width: 408px;
+  height: 195px;
+  object-fit: cover;
+}
+.desktop-2-child7,
+.desktop-2-child8,
+.desktop-2-child9 {
+  left: 593px;
+}
+.desktop-2-child8,
+.desktop-2-child9 {
+  left: 1049px;
+}
+.desktop-2-child9 {
+  left: 1504px;
+}
+.b585b2edbce24c47b2c83-1-icon {
+  position: absolute;
+  top: 602px;
+  left: 200px;
+  width: 254px;
+  height: 150px;
+  object-fit: cover;
+}
+.desktop-2-child10,
+.desktop-2-child11,
+.desktop-2-child12,
+.desktop-2-child13 {
+  position: absolute;
+  top: 399px;
+  left: 692px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gainsboro-400);
+  border: 5px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 250px;
+  height: 80px;
+}
+.desktop-2-child11,
+.desktop-2-child12,
+.desktop-2-child13 {
+  left: 978px;
+}
+.desktop-2-child12,
+.desktop-2-child13 {
+  left: 1264px;
+}
+.desktop-2-child13 {
+  left: 1550px;
+}
+.b57fcd9996e24bc43c487-1-icon,
+.pngimgcom-car-logo-png1640 {
+  position: absolute;
+  top: 399px;
+  left: 178px;
+  width: 133px;
+  height: 81px;
+  object-fit: cover;
+}
+.b57fcd9996e24bc43c487-1-icon {
+  left: 438px;
+  width: 172px;
+  height: 76px;
+}
+.b57fcd9996e24bc43c499-1-icon,
+.cd3bcd4cd710004a71d47-1-icon {
+  position: absolute;
+  top: 388px;
+  left: 708px;
+  width: 218px;
+  height: 92px;
+  object-fit: cover;
+}
+.b57fcd9996e24bc43c499-1-icon {
+  top: 399px;
+  left: 1034px;
+  width: 132px;
+  height: 76px;
+}
+.b57fcd9996e24bc43c48c-1-icon,
+.b585b2edbce24c47b2c35-1-icon {
+  position: absolute;
+  top: 396px;
+  left: 1320px;
+  width: 136px;
+  height: 86px;
+  object-fit: cover;
+}
+.b57fcd9996e24bc43c48c-1-icon {
+  top: 385px;
+  left: 1606px;
+  width: 126px;
+  height: 108px;
+}
+.convertible,
+.sports,
+.suv {
+  position: absolute;
+  top: 781px;
+  left: 263px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 162px;
+}
+.convertible,
+.suv {
+  left: 768px;
+  width: 87px;
+}
+.convertible {
+  left: 1128px;
+  width: 278px;
+}
+.luxury1 {
+  margin: 0;
+}
+.luxury {
+  position: absolute;
+  top: 781px;
+  left: 1644px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 161px;
+}
+.b585b2edbce24c47b2c9d-1-icon {
+  position: absolute;
+  top: 629px;
+  left: 721px;
+  width: 192px;
+  height: 118px;
+  object-fit: cover;
+}
+.b585b2edbce24c47b2c81-1-icon,
+.b585b2edbce24c47b2c9f-1-icon {
+  position: absolute;
+  top: 634px;
+  left: 1143px;
+  width: 221px;
+  height: 118px;
+  object-fit: cover;
+}
+.b585b2edbce24c47b2c9f-1-icon {
+  top: 598px;
+  left: 1599px;
+  width: 206px;
+  height: 179px;
+}
+.desktop-2-child14 {
+  position: absolute;
+  top: 137px;
+  left: 711px;
+  border-radius: var(--br-39xl);
+  background-color: var(--color-blue-100);
+  width: 46px;
+  height: 7px;
+  opacity: 0.9;
+}
+.desktop-2-child16,
+.desktop-2-child18 {
+  position: absolute;
+  top: 58px;
+  left: 1751px;
+  border-radius: var(--br-4xs);
+  background-color: var(--color-blue-100);
+  width: 148px;
+  height: 49px;
+}
+.desktop-2-child18 {
+  top: 56px;
+  left: 1580px;
+  background-color: var(--color-gray-700);
+  border: 3px solid var(--color-blue-200);
+  box-sizing: border-box;
+  height: 51px;
+}
+.about-us7,
+.faqs6,
+.our-services6,
+.sign-in6 {
+  position: absolute;
+  top: 70px;
+  left: 1617px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 73px;
+  height: 24px;
+}
+.about-us7,
+.faqs6,
+.our-services6 {
+  top: 62px;
+  left: 1431px;
+  width: 53px;
+}
+.about-us7,
+.our-services6 {
+  left: 1301px;
+  width: 88px;
+}
+.our-services6 {
+  left: 1147px;
+  width: 146px;
+}
+.cars-for-buy6 {
+  left: 972px;
+  color: var(--color-dimgray-200);
+  width: 121px;
+}
+.cars-for-buy6,
+.cars-for-rent8,
+.home7 {
+  position: absolute;
+  top: 62px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  height: 24px;
+}
+.cars-for-rent8 {
+  left: 799px;
+  color: var(--color-dimgray-200);
+  width: 131px;
+}
+.home7 {
+  left: 710px;
+  width: 48px;
+}
+.hub7 {
+  color: var(--color-deepskyblue);
+}
+.dp-carhub11 {
+  top: 43px;
+  left: 48px;
+  font-size: var(--font-size-31xl);
+  text-transform: uppercase;
+  font-family: var(--font-inter);
+  width: 306px;
+  height: 70px;
+}
+.dp-carhub11,
+.our-product4,
+.sign-up7 {
+  position: absolute;
+  display: inline-block;
+}
+.sign-up7 {
+  top: 70px;
+  left: 1798px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-gray-100);
+  width: 83px;
+  height: 13px;
+}
+.our-product4 {
+  top: 839px;
+  left: 792px;
+  line-height: 150%;
+  font-weight: 500;
+  width: 94px;
+  height: 8px;
+}
+.career4 {
+  position: relative;
+  line-height: 150%;
+}
+.career-parent2 {
+  position: absolute;
+  top: 881px;
+  left: 792px;
+  width: 67px;
+  height: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.resources4 {
+  position: absolute;
+  top: 839px;
+  left: 1057px;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 82px;
+  height: 8px;
+}
+.download-parent2 {
+  position: absolute;
+  top: 874px;
+  left: 1057px;
+  width: 109px;
+  height: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.about-rentcars4,
+.why-choose-us-parent2 {
+  position: absolute;
+  left: 1323px;
+  width: 122px;
+}
+.about-rentcars4 {
+  top: 839px;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  height: 8px;
+}
+.why-choose-us-parent2 {
+  top: 886px;
+  height: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+}
+.follow-us4 {
+  position: absolute;
+  top: 839px;
+  left: 1588px;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 74px;
+  height: 8px;
+}
+.vuesaxlinearfacebook-icon4 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.vuesaxlinearfacebook-parent2 {
+  position: absolute;
+  top: 884px;
+  left: 1588px;
+  width: 102px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 16px;
+}
+.dp-carhub13 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.dp-carhub-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-2-inner1 {
+  position: absolute;
+  top: 835px;
+  left: 273px;
+  width: 90px;
+  height: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.city-center-sindhu-container4 {
+  width: 159px;
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-parent43,
+.vuesaxlinearlocation-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.frame-parent43 {
+  position: absolute;
+  top: 865px;
+  left: 261px;
+  width: 186px;
+  height: 109px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px 0;
+  font-size: var(--font-size-sm);
+}
+.copyright-20234 {
+  position: absolute;
+  top: 1044px;
+  left: calc(50% - 640px);
+  font-size: var(--font-size-xs);
+  line-height: 150%;
+  display: inline-block;
+  width: 280px;
+  height: 6px;
+}
+.desktop-2-child20 {
+  position: absolute;
+  top: 1020.5px;
+  left: calc(50% - 465.5px);
+  border-top: 1px solid var(--color-dimgray-400);
+  box-sizing: border-box;
+  width: 1094px;
+  height: 1px;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  height: 1080px;
+  overflow: hidden;
+  background-image: url(./public/desktop--2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
